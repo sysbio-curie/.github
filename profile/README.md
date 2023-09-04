@@ -2,8 +2,21 @@
 
 Our research aims at deciphering the molecular determinants of cancer and make this knowledge available to improve patient management. It is based on high-dimensional and multi-level omics tumor profiles, and proceed by sophisticated machine learning approaches as well as biological network modelling. At Institut Curie our situation is ideal to pursue these goals, since the choice of collaborations with biologists and clinicians, and the many technological core facilities of the institute offer many options to set up original and cutting-edge projects. We are also involved in many national and international (mainly European) projects with other laboratories in Spain, Germany, Italy, Norway, Netherlands, USA or Japan.
 
-***
+# Tools
 
+**Legend:**&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/saezlab/.github/main/profile/icons/home.svg" height="16">
+&nbsp;Home page&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/saezlab/.github/main/profile/icons/r.svg" height="16">
+&nbsp;R code&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/saezlab/.github/main/profile/icons/python.svg" height="16">
+&nbsp;Python code&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/saezlab/.github/main/profile/icons/package.svg" height="16">
+&nbsp;Package&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/saezlab/.github/main/profile/icons/article.svg" height="16">
+&nbsp;Article
+
+***
 
 | [<img alt="MaBoSS" src="https://maboss.curie.fr/images/maboss_logo.jpg" width="200"/>](https://github.com/sysbio-curie/MaBoSS-env-2.0) | [<img alt="PhysiBoSS" src="" width="200"/>](https://github.com/sysbio-curie/PhysiBoSSv2) | [<img alt="rROMA" src="" width="200"/>](https://github.com/sysbio-curie/rROMA) | [<img alt="transmorph" src="https://github.com/Risitop/transmorph/blob/main/img/logo_v2.png" width="200"/>](https://github.com/sysbio-curie/transmorph) |
 | --- | --- | --- | --- |
@@ -12,4 +25,4 @@ Our research aims at deciphering the molecular determinants of cancer and make t
 | [<img alt="stabilized-ica" src="https://github.com/ncaptier/stabilized-ica/blob/master/docs/source/images/full_logo.png" width="200"/>](https://github.com/sysbio-curie/stabilized-ica) | [<img alt="scikit-dimension" src="" width="200"/>](https://github.com/sysbio-curie/scikit-dimension) | [<img alt="ElPiGraph" src="" width="200"/>](https://github.com/sysbio-curie/ElPiGraph.P) | [<img alt="NaviCell" src="https://raw.githubusercontent.com/sysbio-curie/NaviCell/feat/v3/site/docroot/navicell/navicell-logo.png" width="200"/>](https://github.com/sysbio-curie/NaviCell) |
 ||||
 | **stabilized-ica**  A python implementation of a stabilized ICA algorithm   | **scikit-dimension** A Python package for intrinsic dimension estimation   | **ElPiGraph** Python implementation of the Elastic Principal Graph algorithm with multi-cpu and gpu support | **NaviCell** A web tool for exploring large maps of molecular interactions |
-|[<img src="https://raw.githubusercontent.com/saezlab/.github/main/profile/icons/article.svg" height="16">](https://academic.oup.com/bioinformatics/article/38/10/2963/6564219)&nbsp;&nbsp;||[<img src="https://raw.githubusercontent.com/saezlab/.github/main/profile/icons/article.svg" height="16">](https://www.mdpi.com/1099-4300/22/3/296)&nbsp;&nbsp;| [<img src="https://raw.githubusercontent.com/saezlab/.github/main/profile/icons/article.svg" height="16">](https://bmcsystbiol.biomedcentral.com/articles/10.1186/1752-0509-7-100)&nbsp;&nbsp; |
+|[<img src="https://raw.githubusercontent.com/saezlab/.github/main/profile/icons/home.svg" height="16">](https://stabilized-ica.readthedocs.io)&nbsp;&nbsp;[<img src="https://raw.githubusercontent.com/saezlab/.github/main/profile/icons/package.svg" height="16"><sub><sup> PYPI</sup></sub>](https://pypi.org/project/stabilized-ica/)&nbsp;&nbsp;[<img src="https://raw.githubusercontent.com/saezlab/.github/main/profile/icons/article.svg" height="16">](https://academic.oup.com/bioinformatics/article/38/10/2963/6564219)&nbsp;&nbsp;||[<img src="https://raw.githubusercontent.com/saezlab/.github/main/profile/icons/article.svg" height="16">](https://www.mdpi.com/1099-4300/22/3/296)&nbsp;&nbsp;| [<img src="https://raw.githubusercontent.com/saezlab/.github/main/profile/icons/article.svg" height="16">](https://bmcsystbiol.biomedcentral.com/articles/10.1186/1752-0509-7-100)&nbsp;&nbsp; |
