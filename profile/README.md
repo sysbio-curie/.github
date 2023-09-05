@@ -2,6 +2,7 @@
 
 Our research aims at deciphering the molecular determinants of cancer and make this knowledge available to improve patient management. It is based on high-dimensional and multi-level omics tumor profiles, and proceed by sophisticated machine learning approaches as well as biological network modelling. At Institut Curie our situation is ideal to pursue these goals, since the choice of collaborations with biologists and clinicians, and the many technological core facilities of the institute offer many options to set up original and cutting-edge projects. We are also involved in many national and international (mainly European) projects with other laboratories in Spain, Germany, Italy, Norway, Netherlands, USA or Japan.
 
+**website:** [https://institut-curie.org/team/barillot](https://institut-curie.org/team/barillot)
 # Tools
 
 **Legend:**&nbsp;&nbsp;&nbsp;
