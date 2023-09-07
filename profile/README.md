@@ -31,3 +31,10 @@ Our research aims at deciphering the molecular determinants of cancer and make t
 # Projects
 
 # Course materials
+### [PerMedCoE 2003 summer school ](https://github.com/sysbio-curie/Curie-PerMedCoE-Summer-School-2023) [<img alt="PerMedCoE Summer School" src="https://permedcoe.eu/wp-content/uploads/2022/07/twitter-post_noqa.jpg" width="200" align="right"/>](https://permedcoe.eu/training/permedcoe-summer-school-on-cell-level-simulations/)
+#### From pathway modelling tools to cell-level simulations 
+
+This repository includes : 
+
+- The slides of the introduction to MaBoSS, as well as the jupyter notebook presented ([link](https://github.com/sysbio-curie/Curie-PerMedCoE-Summer-School-2023/tree/main/course)).
+- The files and scripts for the project on the personalisation of cell cycle models in PhysiBoSS. ([link](https://github.com/sysbio-curie/Curie-PerMedCoE-Summer-School-2023/tree/main/project-cellcycle)).
